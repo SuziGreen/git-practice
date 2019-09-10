@@ -1,3 +1,5 @@
 name:Kunkka
 occupation:Admiral
 objective: to be admired and remembered
+
+preferred rate: enough money
